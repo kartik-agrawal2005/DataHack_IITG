@@ -1,2 +1,2 @@
 # DataHack_IITG
- Goal is to predict how likely individuals are to receive their xyz and seasonal flu vaccines. Specifically, you'll be predicting two probabilities: one for xyz_vaccine and one for seasonal_vaccine.
+ Goal is to predict how likely individuals are to receive their xyz and seasonal flu vaccines. Specifically, will be predicting two probabilities: one for xyz_vaccine and one for seasonal_vaccine.
